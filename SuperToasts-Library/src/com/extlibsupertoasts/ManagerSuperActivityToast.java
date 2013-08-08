@@ -43,7 +43,7 @@ public class ManagerSuperActivityToast extends Handler {
 
 		private Messages() {
 
-			// Do nothing
+			// Do nothing                       hyt
 
 		}
 
